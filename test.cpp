@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-	getchar();
+
 	Class1 *_class = new Class1;
 	_class->SetString("Input value\n");
 	_class->writestring();
